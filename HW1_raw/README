@@ -1,0 +1,3 @@
+I had to install JCE unlimited policy, as required by BouncyCastle installation procedure.
+Feel free to check github https://github.com/glebsts/appcrypto2012
+It contains raw sources, as well as Eclipse project.
